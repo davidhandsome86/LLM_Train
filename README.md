@@ -1,2 +1,6 @@
 # LLM_Train
 从零训练Bert架构大模型
+
+该仓库分两个部分，第一部分是tokenizer分词器训练
+分词器的算法是基于bert的WordPiece
+第二部分是模型训练
